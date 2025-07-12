@@ -346,3 +346,8 @@ body {
 width: 500px;
 height: 500px;
 }
+.nav-link-active{
+    color: #ffd700;
+    text-decoration: none;
+    font-weight: bold;
+}
